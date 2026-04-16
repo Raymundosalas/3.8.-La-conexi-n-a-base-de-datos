@@ -1,4 +1,4 @@
-// Moneda.cs
+
 using UnityEngine;
 
 public class Moneda : MonoBehaviour
